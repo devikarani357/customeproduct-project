@@ -1,0 +1,26 @@
+*{
+    margin:0;
+    padding:0;
+}
+.container{
+    width:400px;
+    border:1px solid violet;
+    box-shadow: 0 0 10px rgb(37, 13, 37);
+    border-radius: 5px;
+    margin: 70px;
+}
+.firstcontainer{
+  width:100%;
+}
+.firstcontainer img{
+    width:100%;
+}
+.secondcontainer{
+    padding:20px 10px;
+}
+.details-name{
+    font-size: 22px;
+}
+.details-rating i{
+    color:yellow;
+}
